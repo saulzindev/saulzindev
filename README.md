@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saulzindev/saulzindev/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-lang/?username=saulzindev&layout=compact&langs_count=16&theme=dracula height="150" alt="languages graph"  />
 </div>
 
 ###
