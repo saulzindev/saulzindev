@@ -8,7 +8,7 @@
   <a href="https://x.com/freitaskkkkkkkj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://discord.gg/1227369579811180667" target="_blank">
+  <a href="discord.com/users/1227369579811180667" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
