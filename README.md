@@ -51,13 +51,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-lang/?username=saulzindev&layout=compact&langs_count=16&theme=dracula height="150" alt="languages graph"  />
-</div>
-
-###
