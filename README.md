@@ -15,9 +15,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:saulzindev?theme=gelbooru&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
+
 
 ###
 
