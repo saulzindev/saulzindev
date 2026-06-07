@@ -1,39 +1,22 @@
-<div align="center">
-  <img height="300" src="https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif"  />
-</div>
 
-###
+<img align="right" height="500px" src="https://raw.githubusercontent.com/gist/saulzindev/d544b72d69a46d826abc3730c4658bf4/raw/7cf0168176aee09de041cd52eb12d5ed4e57cdfc/cardname.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Saul Dev!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saulzindev&color=yellow" alt="Profile views" /> </p>
 
-<div align="center">
-  <a href="https://x.com/freitaskkkkkkkj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="discord.com/users/1227369579811180667" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+- 🔥  Software Engineer | Back-End ASP.NET And Others..
 
-###
+- ⚡ Fun fact **Oneye 😜**
+
+- I'm Currently Learn Docker 🐳
+
+- In my free time i like to read books 📖
 
 
 
-###
 
-<h1 align="center">Hello everyone!🖖</h1>
+<br><br>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm saul from Minas Gerais<br><br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I like to read books</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠 Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="30" alt="visualstudio logo"  />
@@ -55,14 +38,16 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
+
+## Contact
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saulzindev/saulzindev/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <a href="https://x.com/freitaskkkkkkkj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="discord.com/users/1227369579811180667" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
 </div>
-
-###
